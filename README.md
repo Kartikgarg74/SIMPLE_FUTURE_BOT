@@ -187,16 +187,4 @@ This project demonstrates:
 
 ## 📄 License
 
-MIT License - This project is for educational and hiring assessment```rposes.
-
-## 🤝 Assignment Submission
-
-This trading bot fulfills all requirements for the "```ior Python Developer –```ypto Trading Bot" position```1. ✅ **Language**: Python
-2. ✅ **Order Types**: MARKET and LIMIT (plus bonus STOP_LIMIT)
-3. ✅ **Order Sides**: BUY and SELL support
-4. ✅ **API Integration**: Official Binance REST API
-5. ✅ **CLI Interface**: Comprehensive command-line interface
-6. ✅ **Output Display**: Detailed order execution status``` ✅ **Logging**: Complete request/response/```or logging
-8. ✅ **Bonus Feature**: STOP_LIMIT order type implemented
-
-**Ready for submission with logs demonstrating successful order placement on Binance Futures Testnet```
+MIT License - This project is for educational and hiring assessment```

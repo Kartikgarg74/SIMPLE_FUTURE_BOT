@@ -3,9 +3,6 @@ python-binance>=1.0.28        # Updated Binance API client with v2 endpoint supp
 python-dotenv==1.0.0          # Environment variable management
 click==8.1.7                  # Professional CLI framework
 
-# Logging and File Handling
-pathlib2==2.3.7              # Enhanced path handling
-
 # CLI Enhancements
 rich==13.7.0                  # Beautiful terminal output
 colorama==0.4.6               # Cross-platform colored text
@@ -21,7 +18,3 @@ requests==2.31.0              # HTTP library
 urllib3<3,>=1.21.1           # HTTP client
 certifi>=2017.4.17           # SSL certificates
 
-# Optional Advanced Features
-websockets==12.0              # WebSocket support
-pandas>=2.0.0                 # Data analysis
-numpy>=1.24.0                 # Numerical computing

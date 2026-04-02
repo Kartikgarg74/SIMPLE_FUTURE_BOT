@@ -248,7 +248,7 @@ def info():
     try:
         import binance
         binance_version = binance.__version__
-    except:
+    except (ImportError, AttributeError):
         binance_version = "Unknown"
 
     click.echo(f"Python:           {platform.python_version()}")
